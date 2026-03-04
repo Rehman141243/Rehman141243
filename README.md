@@ -27,7 +27,7 @@
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehmanplays54" alt="rehmanplays54" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/ryo-ma](https://github.com/Rehman141243)/github-profile-trophy)" alt="rehmanplays54" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanplays54&show_icons=true&locale=en&layout=compact" alt="rehmanplays54" /></p>
 
