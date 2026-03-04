@@ -19,16 +19,15 @@
 <h3 align="left">Connect with me:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,nextjs,express,androidstudio,java,mongodb,firebase,github,git,postman,figma,ai&perline=5)](https://skillicons.dev)
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="Rehman141243" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark" alt="Rehman141243" />
   </a>
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehman141243&show_icons=true&locale=en&layout=compact" alt="Rehman141243" />
-</p>
+</p>>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman141243" alt="Rehman141243" />
