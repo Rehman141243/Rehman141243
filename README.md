@@ -20,9 +20,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,nextjs,express,androidstudio,java,mongodb,firebase,github,git,postman,figma,ai&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehmanplays54&show_icons=true&theme=dark)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark" alt="Rehman141243" />
+  </a>
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehman141243&show_icons=true&locale=en&layout=compact" alt="Rehman141243" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman141243" alt="Rehman141243" />
+</p>
 
 <br>
 
