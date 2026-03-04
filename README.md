@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
  <img align="right" with="100" height="300" src="https://www.quickwayinfosystems.com/wp-content/uploads/2023/12/hire-reactnative-bg.webp"  /> </p>
+[![Button Demo]][Demo]   
+[![Button Building]][Building]   
+[![Button Usage]][Usage] 
 
 - 🔭 I’m currently working on [Anamcara]()
 
@@ -19,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind,nextjs,express,androidstudio,java,mongodb,firebase,github,git,postman,figma,ai&perline=5)](https://skillicons.dev)
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark" alt="Rehman141243" />
