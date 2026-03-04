@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark" alt="Rehman141243" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Rehman141243&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="Rehman141243" />
   </a>
 </p>
 
@@ -37,8 +37,3 @@
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/Rehman141243/github-profile-trophy)]" alt="rehmanplays54" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanplays54&show_icons=true&locale=en&layout=compact" alt="rehmanplays54" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanplays54&" alt="rehmanplays54" /></p>
