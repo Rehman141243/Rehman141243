@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
- <img align="right" width=100 height=250 src="https://www.quickwayinfosystems.com/wp-content/uploads/2023/12/hire-reactnative-bg.webp"  /> </p>
+ <img align="right" width=300 height=250 src="https://www.quickwayinfosystems.com/wp-content/uploads/2023/12/hire-reactnative-bg.webp"  /> </p>
 
 
 - 🔭 I’m currently working on [Impactum]()
