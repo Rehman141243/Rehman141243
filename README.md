@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn.phototourl.com/anon/2026-11-18-965864c1-d26c-4b71-ac18-122475c48a0b.png"
-       width="100%" height=200
+       width="100%" height=300
        alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
