@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kommodo.ai/i/mHWHgSO5x6T7uFL1YWl9"
+  <img src="https://cdn.phototourl.com/anon/2026-11-18-965864c1-d26c-4b71-ac18-122475c48a0b.png"
        width="100%" height=200
        alt="Banner" />
 </p>
