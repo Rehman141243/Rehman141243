@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
- <img marginLeft='10px' align="right" width=300 height=300 src="https://cdn.phototourl.com/anon/2026-11-18-50475931-5abc-4fc9-a5b1-859fcecdc86f.png"  /> </p>
+ <img marginRight='30px' align="right" width=300 height=300 src="https://cdn.phototourl.com/anon/2026-11-18-50475931-5abc-4fc9-a5b1-859fcecdc86f.png"  /> </p>
 
 
 - 🔭 I’m currently working on [Impactum]()
