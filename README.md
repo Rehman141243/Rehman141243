@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4E1BAQHnUhsiI8gczw/company-background_10000/company-background_10000/0/1626938395588/react_native_developer_community_cover?e=2147483647&v=beta&t=ft_iyBNzGBTp607OL_YOLtKi0q-43hpLeCEs5h4XzL4"
+  <img src="blob:https://chatgpt.com/38d26a9e-de8b-4836-bebe-e2428e3be6a6"
        width="100%" height=200
        alt="Banner" />
 </p>
