@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6afd9aa5dc4c81918aad86422a9a0aba"
+  <img src="https://cdn.phototourl.com/anon/2026-11-18-a77e1fc9-b082-471c-80f9-1a9942f6d6bf.png"
        width="100%" height=300
        alt="Banner" />
 </p>
