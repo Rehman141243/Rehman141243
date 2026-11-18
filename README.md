@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Mobile App developer from Pakistan</h3>
 
- <img align="right" width=300 height=250 src="[https://www.quickwayinfosystems.com/wp-content/uploads/2023/12/hire-reactnative-bg.webp](https://cdn.phototourl.com/anon/2026-11-18-9587f9ee-ad3b-4f34-ba13-ca837cdb436c.png)"  /> </p>
+ <img align="right" width=300 height=250 src="https://cdn.phototourl.com/anon/2026-11-18-9587f9ee-ad3b-4f34-ba13-ca837cdb436c.png"  /> </p>
 
 
 - 🔭 I’m currently working on [Impactum]()
