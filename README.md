@@ -44,8 +44,8 @@
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/Rehman141243/Rehman141243/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</p>
+</p> -->
 
 <h3 align="center">🤝 Let's Connect & Build Something Amazing!</h3>
